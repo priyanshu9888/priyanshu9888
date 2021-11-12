@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Www.sikheyha.blogspot.com](Www.sikheyha.blogspot.com)
 
-- 💬 Ask me about **Python, java, HTML , CSS, bootstrap, basic javascript, MySQL**
+- 💬 Ask me about **Python, Django, java, HTML , CSS, bootstrap, basic javascript, MySQL**
 
 - 📫 How to reach me **priyanshuraj9888@gmail.com**
 
