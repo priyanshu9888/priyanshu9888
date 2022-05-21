@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [Temporary in GitHub](Temporary in GitHub)
 
 - 📝 I regularly write articles on [https://sikheyha.blogspot.com/](https://sikheyha.blogspot.com/)
+- My portfolio blog [https://webtechdeveloperj.blogspot.com/](https://webtechdeveloperj.blogspot.com/)
 
 - 💬 Ask me about **Python, Django, java, HTML , CSS, bootstrap, basic javascript, MySQL**
 
